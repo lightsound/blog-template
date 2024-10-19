@@ -1,3 +1,4 @@
+// このファイルはNewt特有なので、皆さんのヘッドレスCMS次第で変わるでしょう
 import type { Content } from 'newt-client-js'
 import process from 'node:process'
 import { createClient } from 'newt-client-js'
